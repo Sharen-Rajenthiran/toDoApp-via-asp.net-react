@@ -32,10 +32,9 @@ Various resources were used to complete this assessment, such as referring to do
 ---
 
 ## **Future Improvements ✨**  
-1. The ToDoItem accepts three fields Id, Task, and isCompleted. In the UI, isCompleted is ignored because it's not used. However, for future iterations of the app, a **COMPLETE** button can be added for better use of the variable.
-2. Add several to do lists functionality.
-3. Add Authentication methods.
-4. To do lists for multiple users. Sign in with email and password.
+1. Add several to do lists functionality.
+2. Add Authentication methods.
+3. To do lists for multiple users. Sign in with email and password.
 
 ---
 
