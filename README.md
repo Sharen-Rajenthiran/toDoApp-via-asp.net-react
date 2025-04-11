@@ -22,12 +22,12 @@ This is a **ASP.NET Web API** and **React.js** project built for .NET developer 
 
 ---
 
-## Details
+## Details + Demo Gif
 Since this was a technical assessment and not a personal project, in-depth details is not provided in this README. This is intended for the Hiring Managers only. 
 
-Various resources were used to complete this assessment, such as referring to documentation, open sources, and coding assistants. The code is written by me, and for the parts I needed clarification, I referred to the sources mentioned. This helped me to stay grounded and ensure proper code is written. This was also a learning process for me because C# and ASP.NET Core a still new concept to me but I find it interesting and hope to continue working on it. After a week of working on this assessment, here is the final product (only the UI is shown here):
+Various resources were used to complete this assessment, such as referring to documentation, open sources, and coding assistants. The code is written by me, and for the parts I needed clarification, I referred to the sources mentioned. This helped me to stay grounded and ensure proper code is written. This was also a learning process for me because C# and ASP.NET Core a still new concept to me but I find it interesting and hope to continue working on it. After a week of working on this assessment, here is the final product (only the UI is shown here and please wait a few seconds for the gif to play):
 
-![sample](SampleUI.png)
+![ToDoAppDotNetRoleAssessment](ToDoAppDotNetRoleAssessment.gif)
 
 ---
 
