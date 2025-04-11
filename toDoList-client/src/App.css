@@ -1,0 +1,119 @@
+body {
+  background-color: #fff;
+  color: #000;
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start; 
+  min-height: 100vh;
+  padding-top: 40px; 
+}
+
+.container {
+  width: 100%;
+  max-width: 400px;
+  padding: 40px 16px;
+}
+
+.heading {
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: bold;
+  font-family: 'Brush Script MT', cursive;
+  margin-bottom: 24px;
+}
+
+.inputGroup {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 24px;
+  justify-content: center;
+}
+
+.input {
+  flex: 1;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 0;
+  border: 1px solid #ccc;
+  background-color: #333;
+  color: white;
+}
+
+.input::placeholder {
+  color: #aaa;
+}
+
+.addButton {
+  padding: 10px 16px;
+  font-size: 16px;
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.toDoList {
+  list-style: none;
+  margin-top: 32px;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.toDoItem {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  border-bottom: 1px solid #000;
+  padding-bottom: 8px;
+}
+
+.circle {
+  height: 16px;
+  width: 16px;
+  border: 2px solid #000;
+  border-radius: 50%;
+  background-color: #000;
+}
+
+.input {
+  text-align: center;
+}
+
+.title {
+  flex: 1;
+}
+
+.deleteButton {
+  background: none;
+  border: none;
+  color: #888;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.deleteButton:hover {
+  color: #000;
+}
+
+.completeButton {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.editButton {
+  background-color: #ffa500;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  margin: 5px;
+  cursor: pointer;
+}
