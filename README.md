@@ -12,13 +12,17 @@ This is a **ASP.NET Web API** and **React.js** project built for .NET developer 
 #### **Getting Started with Visual Studio**  
 1. Download and install Visual Studio from [Visual Studio](https://visualstudio.microsoft.com/downloads/). 
 2. Download ASP.NET from the installer to get started.
-3. Follow the instructions on the installer to ensure successful installation. 
+3. Follow the instructions on the installer to ensure successful installation.
+4. Download the `ToDoAppV2` files to your folder.
+5. Run the build.
 
 #### **Getting Started with React**  
 1. Download and install Visual Studio Code from [Visual Studio Code](https://visualstudio.microsoft.com/downloads/). 
 2. Download Node.js from [Node.js](https://nodejs.org/en/download).
 3. You can use NPM on your terminal to get started with React.
-4. Use `npm create vite@latest` on your terminal and follow the instructions on the terminal to create a React project folder.
+4. Download the `toDoList-client` files to your folder.
+5. Run `npm install` to install modules.
+6. Run `npm run dev` to start the page (please ensure the backend is running).
 
 ---
 
@@ -35,6 +39,7 @@ Various resources were used to complete this assessment, such as referring to do
 1. Add several to do lists functionality.
 2. Add Authentication methods.
 3. To do lists for multiple users. Sign in with email and password.
+4. Use .gitignore files for push and pull.
 
 ---
 
